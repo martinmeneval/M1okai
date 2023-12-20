@@ -1,0 +1,41 @@
+{
+	"name": "m1okai",
+	"displayName": "M1okai",
+	"description": "Martin's take on the classic Monokai. Pronounced 'Em-one-oh-kai'.",
+	"publisher": "martinmeneval",
+	"license": "MIT",
+	
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.85.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "M1okai",
+				"uiTheme": "vs-dark",
+				"path": "./themes/M1okai.json"
+			}
+		]
+	},
+	"extensionKind": [
+		"ui",
+		"workspace"
+	],
+	"galleryBanner": {
+		"color": "#FFE6DF",
+		"theme": "light"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/martinmeneval/m1okai"
+	}
+}
