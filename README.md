@@ -2,6 +2,16 @@
 
 My take on a popular IDE color theme. Heavily inspired by the default Monokai theme and [Monokai Pro (Filter Ristretto)](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode), with a growing number of custom changes.
 
+## Screenshots
+
+### Python
+
+![Python](screenshot-1.png)
+
+### Java
+
+![Java](screenshot-2.png)
+
 ## Building and installation
 
 `vsce package` to create a .vsix file. Then install it from the command line with `code --install-extension m1okai-x.y.x.vsix`.

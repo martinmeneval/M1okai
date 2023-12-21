@@ -5,7 +5,7 @@
 	"publisher": "martinmeneval",
 	"license": "MIT",
 	
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
@@ -31,7 +31,7 @@
 		"workspace"
 	],
 	"galleryBanner": {
-		"color": "#FFE6DF",
+		"color": "#EFE7E5",
 		"theme": "light"
 	},
 	"repository": {
