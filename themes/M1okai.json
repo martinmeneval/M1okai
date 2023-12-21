@@ -1016,7 +1016,8 @@
                 "markup.heading",
                 "meta.diff.git-diff.header",
                 "region.yellowish",
-                "string"
+                "string",
+                "string.quoted.double.html"
             ],
             "settings": {
                 "foreground": "#FACA69"
