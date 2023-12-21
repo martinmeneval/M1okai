@@ -4,13 +4,11 @@ My take on a popular IDE color theme. Heavily inspired by the default Monokai th
 
 ## Screenshots
 
-### Python
+<img width="1440" alt="Screenshot 2023-12-21 at 18 41 01" src="https://github.com/martinmeneval/m1okai/assets/34133448/06e9c194-9f07-485d-85c1-9c611fe17958">
 
-![Python](screenshot-1.png)
+<img width="1440" alt="Screenshot 2023-12-21 at 18 43 05" src="https://github.com/martinmeneval/m1okai/assets/34133448/5b0bb5f5-1358-49cd-8ade-ad86483385d5">
 
-### Java
-
-![Java](screenshot-2.png)
+<img width="1068" alt="Screenshot 2023-12-21 at 18 57 13" src="https://github.com/martinmeneval/m1okai/assets/34133448/b1afef5f-7414-4336-87a6-cbb4e14ef83c">
 
 ## Building and installation
 
