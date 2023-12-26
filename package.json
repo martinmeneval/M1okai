@@ -5,7 +5,7 @@
 	"publisher": "martinmeneval",
 	"license": "MIT",
 	
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
@@ -37,5 +37,6 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/martinmeneval/m1okai"
-	}
+	},
+	"icon": "logo-m1okai.png"
 }
