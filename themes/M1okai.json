@@ -282,7 +282,7 @@
         "editorOverviewRuler.wordHighlightForeground": "#FFE6DF26",
         "editorOverviewRuler.wordHighlightStrongForeground": "#FFE6DF26",
         // "editorOverviewRuler.wordHighlightTextForeground": "",
-        "editorOverviewRuler.modifiedForeground": "#F59D84",
+        "editorOverviewRuler.modifiedForeground": "#FACA69",
         "editorOverviewRuler.addedForeground": "#9FDB74",
         "editorOverviewRuler.deletedForeground": "#FD6281",
         "editorOverviewRuler.errorForeground": "#FD6281",
@@ -306,7 +306,7 @@
         // "editorUnnecessaryCode.border": "",
         "editorUnnecessaryCode.opacity": "#000000A4",
         "editorGutter.background": "#2C2725",
-        "editorGutter.modifiedBackground": "#C88AF1",
+        "editorGutter.modifiedBackground": "#FACA69",
         "editorGutter.addedBackground": "#9FDB74",
         "editorGutter.deletedBackground": "#FD6281",
         // "editorGutter.commentRangeForeground": "",
@@ -838,6 +838,7 @@
                 "keyword.other.template.begin",
                 "keyword.other.template.end",
                 "keyword.other.where.rust",
+                "log.error",
                 "markup.deleted",
                 "markup.deleted punctuation.definition.deleted",
                 "punctuation.definition.string.template.begin",
@@ -932,6 +933,7 @@
         },
         {
             "scope": [
+                "log.debug",
                 "punctuation.definition.comment",
                 "string.quoted.docstring",
                 "string.quoted.docstring punctuation.definition"
@@ -978,6 +980,7 @@
                 "constant.other.placeholder.c",
                 "constant.other.symbol",
                 "entity.other.attribute-name.id.css",
+                "log.warning",
                 "markup.raw",
                 "meta.attribute-with-value.id string",
                 "meta.attribute.id.html string",
@@ -1037,6 +1040,7 @@
                 "entity.other.attribute-name.parent-selector-suffix.css",
                 "entity.other.attribute-name.parent-selector-suffix.css punctuation.definition.entity.css",
                 "entity.other.attribute-name",
+                "log.info",
                 "markup.inserted",
                 "markup.inserted punctuation.definition.inserted",
                 "markup.underline.link",
@@ -1131,7 +1135,7 @@
         },
         {
             "scope": [
-                "invalid"
+                "invalid",
             ],
             "settings": {
                 "fontStyle": "italic underline",
