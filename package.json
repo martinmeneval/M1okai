@@ -5,7 +5,7 @@
 	"publisher": "martinmeneval",
 	"license": "MIT",
 	
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"engines": {
 		"vscode": "^1.85.0"
 	},
